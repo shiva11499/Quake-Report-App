@@ -33,7 +33,6 @@ submitting a pull request through GitHub. Please see CONTRIBUTING.md for more de
 
 License
 -------
-
 Copyright 2016 The Android Open Source Project, Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
